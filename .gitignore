@@ -4,8 +4,6 @@ __pycache__/
 *$py.class
 
 api_keys.py
-
-
 .DS_Store
 config.py
 
