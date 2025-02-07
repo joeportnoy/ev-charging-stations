@@ -3,9 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+api_keys.py
 .DS_Store
 config.py
 api_keys.py
+
 # C extensions
 *.so
 
