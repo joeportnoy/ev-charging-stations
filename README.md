@@ -42,22 +42,39 @@ All members participate, with slides that are clean and engaging.
 **Slide Deck:**
 Relevant, professional slides demonstrating project outcomes effectivel
 
-### Key Findings
+### Key Findings: EV Charging Expansion Analysis
 
-!["Map of EV Station Cities"](images/ev-charging-stations-locations.png)
+!["Map of EV Station Cities"](images/ev-charging-stations-locations.png)  
 
-**EV Insights**
-- Steady and Sustainable Growth: Focus on long-term expansion with a balanced approach.
-- Moderate Number of Installations: Avoid oversaturation while ensuring accessibility.
-- Limited Operating Hours: Optimize resource allocation and reduce costs.
-- Use 50 or 150 kW Chargers: Cost-effective solution without sacrificing functionality.
-- Plan for Growth Strategically:
-- Expand in moderate-use cities to establish presence.
-- Add more chargers in high-demand cities to maximize impact.
-- Leverage Government Subsidies: Invest in cities where subsidies lower installation and operational costs.
+Our analysis highlights key factors for **cost-effective and sustainable EV charging expansion**:  
 
-!["EV Station Growth Trend"](images/ev-charging-stations-years.png)
+- **A moderate number of installations balances demand and cost.**  
+  Deploying too many chargers too quickly can lead to underutilization and unnecessary expenses. A measured approach ensures that installations match actual demand, optimizing both financial and operational efficiency.  
 
-**Additional Notes regarding the data**
-- Dataset was too broad and compromised (ex. Latitude and Longitude were incorrect)
-- Data evenly distributed across all questions and analysis
+!["EV Station Growth Trend"](images/ev-charging-stations-years-trend.png)
+
+- **Limited operating hours help optimize efficiency and expenses.**  
+  By restricting charging availability to peak usage times, we can reduce maintenance and energy costs while still meeting the needs of most users. This approach helps maximize profitability while keeping infrastructure manageable.
+
+![Operating Hours](images/ev-availability-boxplot-jp.png)
+
+- **50 or 150 kW chargers provide a lower-cost alternative while meeting user needs.**  
+  High-powered chargers are expensive and may not always be necessary. Choosing 50 or 150 kW chargers offers a more affordable solution that still provides adequate charging speed for most customers, making expansion more financially viable.
+
+![Lower cost alternative](images/ev-charging-stations-usage-charging-capacity.png)
+
+- **Growth should align with usage trends—expand in moderate-use cities and scale up in high-demand areas.**  
+  Instead of a one-size-fits-all expansion, data should guide growth. Moderate-use cities can benefit from an initial presence, while high-demand areas may require more chargers to accommodate increasing traffic. 
+
+- **Government subsidies can significantly reduce costs in select cities.**  
+  Many local governments offer incentives for EV infrastructure, which can offset installation and operational expenses. Prioritizing investments in these locations allows for more cost-effective deployment and long-term sustainability.
+
+![Cost per kWh](images/ev-charging-stations-avg-charging-cost.png)
+
+These findings provide a **data-driven foundation** for making **smart investment decisions** that maximize impact while maintaining financial efficiency.
+
+**Opportunities for further analysis**
+
+Future analysis should focus on gathering more comprehensive datasets on EV chargers, with a targeted approach to specific cities. This includes obtaining detailed data on the number of registered electric vehicles in each location, as well as identifying trends in EV adoption to uncover growth patterns and shifts in consumer behavior. A deeper understanding of these factors would provide clearer insights into which cities present the strongest opportunities for new EV charging station development, ensuring a more data-driven and strategic expansion.
+
+Our analysis revealed several limitations in the dataset that present opportunities for further refinement. The dataset was overly broad and contained compromised data points, such as incorrect latitude and longitude values, which may have impacted the accuracy of location-based insights. Additionally, the data was evenly distributed across all questions and analyses, potentially masking meaningful variations or trends.
