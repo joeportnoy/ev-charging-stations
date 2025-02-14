@@ -1,12 +1,24 @@
 # EV Charging Station Utilization & Demand Patterns
 !["EV Charging Station"](images/ev-charging-stations-car.jpg)
 
-### Team Members: 
+### Table of Contents
+- [Team Members](#team-members)
+- [Project Description](#project-description)
+- [Project Scope](#project-scope)
+- [Datasets & API To Be Used](#datasets-api-to-be-used)
+- [Project Submission Requirements](#project-submission-requirements)
+- [Key Findings](#key-findings)
+___
+
+<a id="team-members"></a>
+### Team Members:
 Angelina Murdock (@Angelinamurdock), Joe Portnoy (@joeportnoy), Jennifer Kim (@JenniBean-K), Tatenda Manenji (@Tatenda93), Matthew Guy (@mattguy22)
 
+<a id="project-description"></a>
 ### Project Description
 The goal of this project is to analyze EV charging station data, which contains detailed information about station locations, charging capacities, availability, usage statistics, and more. We will uncover utilization and demand patterns by exploring how factors like charging capacity, availability hours, and installation year influence station usage. This analysis will provide data-driven insights to optimize EV charging infrastructure, enhance user accessibility, and improve resource allocation.
 
+<a id="project-scope"></a>
 ### Project Scope: 
 **Objective:** Identify key drivers influencing EV charging station utilization and demand using the provided dataset.
 
@@ -21,6 +33,7 @@ The goal of this project is to analyze EV charging station data, which contains 
 4. Which cities have the highest and lowest average daily usage?
 5. What is the cost by city (distribution)
 
+<a id="datasets-api-to-be-used"></a>
 ### Datasets & API to Be Used: 
 https://www.kaggle.com/datasets/vivekattri/global-ev-charging-stations-dataset
 
@@ -42,6 +55,7 @@ All members participate, with slides that are clean and engaging.
 **Slide Deck:**
 Relevant, professional slides demonstrating project outcomes effectivel
 
+<a id="key-findings"></a>
 ### Key Findings: EV Charging Expansion Analysis
 
 !["Map of EV Station Cities"](images/ev-charging-stations-locations.png)  
